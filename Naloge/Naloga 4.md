@@ -2,8 +2,6 @@
 
 ## 📑 Naloga 
 
-Naloga 4 
-
 Za vse vaše strani izdelajte postavitev s pomočjo elementov **float in flex** ALI **grid**. ***Uporaba Bootrstrap-a ni dovoljena.***
 
 Naredite stran responsive – na enem primeru uporabite @media, v ostalih primerih pa ločene datoteke, vsaj za 3 različne širine zaslonov (telefon, tablica, velik zaslon). 

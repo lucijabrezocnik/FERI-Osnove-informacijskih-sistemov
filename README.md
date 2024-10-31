@@ -13,7 +13,8 @@
 - Naloga 1: Osnove HTML [4 točke]
 - Naloga 2: Nadaljevalni HTML [4 točke]
 - Naloga 3: Osnovni CSS [4 točke]
-- Naloga 4: Nadaljevalni CSS [4 točke]
+- [Naloga 4: Nadaljevalni CSS](<Naloge/Naloga 4.md>) [4 točke]
+- [Naloga 5: Funkcionalne zahteve](<Naloge/Naloga 5.md>) [4 točke]
 <br/><br/><br/>
 
 ## Kvizi

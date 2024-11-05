@@ -18,4 +18,4 @@
 <br/><br/><br/>
 
 ## Kvizi
-1. kviz: *todo*
+1. kviz: **15. 11. 2024** (učilnica: **A-301**, termin: **8:00**)

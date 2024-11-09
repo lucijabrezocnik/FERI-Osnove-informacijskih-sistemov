@@ -15,6 +15,7 @@
 - Naloga 3: Osnovni CSS [4 točke]
 - [Naloga 4: Nadaljevalni CSS](<Naloge/Naloga 4.md>) [4 točke]
 - [Naloga 5: Funkcionalne zahteve](<Naloge/Naloga 5.md>) [4 točke]
+- [Naloga 6: Diagram primerov uporabe](<Naloge/Naloga 6.md>) [10 točk]
 <br/><br/><br/>
 
 ## Kvizi

@@ -16,6 +16,7 @@
 - [Naloga 4: Nadaljevalni CSS](<Naloge/Naloga 4.md>) [4 točke]
 - [Naloga 5: Funkcionalne zahteve](<Naloge/Naloga 5.md>) [4 točke]
 - [Naloga 6: Diagram primerov uporabe](<Naloge/Naloga 6.md>) [10 točk]
+- Naloga 7: (poenostavljen) SZPO [10 točk]
 <br/><br/><br/>
 
 ## Kvizi
